@@ -11,7 +11,7 @@ rule ducktail_dotnet_core_infostealer
         hash3="3a4b395301f61b7e6afc0ab27dc02331455181d0"
     strings:
         $dotnet_core_bundle_signature = { 8B 12 02 B9 6A 61 20 38 72 7B 93 02 14 D7 A0 32 13 F5 B9 E6 EF AE 33 18 EE 3B 2D CE 24 B3 6A AE }
-        // Facebook-related strings
+        // Facebook-related
         $fb_str_1 = "c_user" wide ascii
         $fb_str_2 = "https://business.facebook.com/security/twofactor/reauth/enter" wide ascii
         $fb_str_3 = "https://business.facebook.com/security/twofactor/reauth" wide ascii
@@ -60,7 +60,7 @@ rule ducktail_dotnet_core_infostealer
         $fb_str_46 = "get_AdsAccount" wide ascii
         $fb_str_47 = "get_BmLinks" wide ascii
         $fb_str_48 = "FbDataScanner" wide ascii
-        // Exfiltration-related strings
+        // Exfiltration-related
         $exfil_str_1 = "telegramBotClient_OnUpdate" wide ascii
         $exfil_str_2 = "telegramHandler" wide ascii
         $exfil_str_3 = "ZipArchive" wide ascii
@@ -68,7 +68,7 @@ rule ducktail_dotnet_core_infostealer
         $exfil_str_5 = "1.txt" wide ascii
         $exfil_str_6 = ".zip" wide ascii
         $exfil_str_7 = "2.txt" wide ascii
-        // Browser strings
+        // Browser-related
         $browser_str_1 = "GetCookies" wide ascii
         $browser_str_2 = "get_AllCookies" wide ascii
         $browser_str_3 = "ChromiumBrowser" wide ascii
@@ -95,9 +95,9 @@ rule ducktail_dotnet_core_infostealer
         uint16(0) == 0x5A4D
         and $dotnet_core_bundle_signature
         and (
-            // 7 Facebook-related strings with either 7 browser or 3 exfil strings found
+            // 7 Facebook-related with either 7 browser or 3 exfil keywords found
             (7 of ($fb_str_*) and (7 of ($browser_str_*) or 3 of ($exfil_str_*))) 
-            // 7 Browser and 3 exfil strings found
+            // 7 Browser and 3 exfil keywords found
             or (7 of ($browser_str_*) and 3 of ($exfil_str_*))
         )
 }
