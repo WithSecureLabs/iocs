@@ -12,7 +12,7 @@ rule ducktail_artifacts
     strings:
         $pdb_path_1 = /[a-z]\:\\projects\\(viruttest|virot)\\/i nocase ascii
         $pdb_path_2 = /[a-z]\:\\users\\ductai\\/i nocase ascii
-        $pdb_path_3 = "dataextractor.pdb" nocase ascii
+        $pdb_path_3 = "\\dataextractor.pdb" nocase ascii
         $email = "ductai2308@gmail.com" wide ascii
      condition:
         uint16(0) == 0x5A4D
