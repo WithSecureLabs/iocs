@@ -1,5 +1,5 @@
 import "pe"
-rule SILKOADER
+rule SILKLOADER
 {
     meta:
         author="WithSecure"
