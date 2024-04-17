@@ -1,0 +1,12 @@
+﻿Type,Value,Note,Seen in,Seen on
+Filename,crdss.exe,Backdoor dropper file name,Ukraine,Jun-22
+Filename,%SYSTEM%\win32log.exe,Backdoor dropper file name,Estonia,Sep-22
+SHA1,80fb042b4a563efe058a71a647ea949148a56c7c,Backdoor dropper hash,Ukraine,Jun-22
+SHA1,5d9c189160423b2e6a079bec8638b7e187aebd37,Backdoor dropper hash,Estonia,Sep-22
+SHA1,6c3441b5a4d3d39e9695d176b0e83a2c55fe5b4e,Backdoor hash,Estonia,Sep-22
+SHA1,97e0e161d673925e42cdf04763e7eaa53035338b,Backdoor hash,Ukraine,May-23
+SHA1,9bbde40cab30916b42e59208fbcc09affef525c1,Backdoor hash,Ukraine,Jun-22
+URL,https[:]//103[.]78[.]122[.]94/help/healthcheck,Backdoor C2 address,-,-
+URL,https[:]//88[.]80[.]148[.]65/news/article,Backdoor C2 address,-,-
+URL,https[:]//185[.]181[.]229[.]102/home/info,Backdoor C2 address,-,-
+URL,https[:]//185[.]38[.]150[.]8/star/key,Backdoor C2 address,-,-
