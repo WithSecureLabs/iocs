@@ -1,8 +1,9 @@
 import pefile
 import struct
 import re
-from Cryptodome.Cipher import AES
-from ctypes import *
+from Crypto.Cipher import AES
+from wincrypto import CryptCreateHash, CryptExportKey, CryptDeriveKey, CryptHashData
+from wincrypto.constants import CALG_MD5, CALG_AES_256 
 from ctypes.wintypes import DWORD, LPVOID , UINT, BOOL, BYTE, LPCSTR
 import sys
 from pathlib import Path
@@ -49,7 +50,10 @@ def decrypt_aes(encrypted_data, key):
         key,
      AES.MODE_CBC,
      IV=iv)
-    return cipher.decrypt(encrypted_data)
+    decrypted = cipher.decrypt(encrypted_data)
+    # remove padding
+    decrypted = decrypted[:-16]
+    return decrypted
 
 def process_resources(resources, password, file_path):
      for offset, size, entry_id in resources:
@@ -62,23 +66,11 @@ def process_resources(resources, password, file_path):
             w.write(decrypted)
 
 def aes_generate_key_winapi(password):
-    CryptAcquireContextW = windll.advapi32.CryptAcquireContextW
-    CryptCreateHash = windll.advapi32.CryptCreateHash
-    CryptHashData = windll.advapi32.CryptHashData
-    CryptDeriveKey = windll.advapi32.CryptDeriveKey
-    CryptExportKey = windll.advapi32.CryptExportKey
-    hProv = c_void_p()
-    CryptAcquireContextW(byref(hProv), 0, 0, 0x0018, 0xF0000000)
-    hHash = c_void_p()
-    CryptCreateHash(hProv, 0x00008003, 0, 0, byref(hHash))
-    password=password.replace(b'\x00',b'').decode('utf-8')
-    CryptHashData(hHash, password, 2*len(password), 0)
-    hKey = c_void_p()
-    CryptDeriveKey(hProv, 0x6610, hHash, 1, byref(hKey))
-    pbData = create_string_buffer(64) 
-    pdwDataLen = DWORD(64)
-    CryptExportKey(hKey, 0, 0x8, 0, byref(pbData), byref(pdwDataLen))
-    return pbData.raw[pdwDataLen.value-32:pdwDataLen.value]
+    hHash = CryptCreateHash(CALG_MD5)
+    password = password.replace(b'\x00',b'').decode('utf-8').encode('utf-16le')
+    CryptHashData(hHash, password)
+    hKey = CryptDeriveKey(hHash, CALG_AES_256)
+    return hKey.key
 
 
 if __name__ == "__main__":
