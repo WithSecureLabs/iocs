@@ -1,0 +1,305 @@
+﻿Type,Value,Note
+Name,Optyprism Limited,Certificate name - used to sign MSI installer
+SHA1,7bb22a166d2b74cf6b2682aad92c934705c07978,Certificate thumbprint - used to sign MSI installer
+Name,LLC DITRIX,Certificate name - used to sign MSI installer
+SHA1,d7340b019c3fc16fa659325eb16ac4821fd7d070,Certificate thumbprint - used to sign MSI installer
+Name,IT Consulting Timo Lehtinen Oy,Certificate name - used to sign MSI installer
+SHA1,84a6bcf027ba5dfe74586f937a437ba6d2309e17,Certificate thumbprint - used to sign MSI installer
+Name,LLC Kraft Market,Certificate name - used to sign MSI installer
+SHA1,a8f4f99311a9b3b59e85a4c2387554638476326d,Certificate thumbprint - used to sign MSI installer
+Name,LLC MIR RTI,Certificate name - used to sign MSI installer
+SHA1,3b14310ad7309b43405b3b8c94bdb977a4ad84e8,Certificate thumbprint - used to sign MSI installer
+Name,LLC Promtrade,Certificate name - used to sign MSI installer
+SHA1,eabe656511cb509b2ef42fc86077010c40f03ff2,Certificate thumbprint - used to sign MSI installer
+Name,LLC Torgovyi Dom Energia,Certificate name - used to sign MSI installer
+SHA1,7eb16b979b013fbc4fd343342e533492b8cb6af6,Certificate thumbprint - used to sign MSI installer
+Name,LLC Gazovaya Kompaniya,Certificate name - used to sign MSI installer
+SHA1,a301adb5bc8db6096b09e729c1e420580652dfb9,Certificate thumbprint - used to sign MSI installer
+Name,LLC Stroytorg,Certificate name - used to sign MSI installer
+SHA1,17e9e652b7ec3d4bbb726cda4b8ee0e3490936b2,Certificate thumbprint - used to sign MSI installer
+Name,MicrosoftEdgeUpdate,One of the earliest scheduled task names
+Name,ChromeUserAgentUpdater,One of the earliest scheduled task names
+Name,MicrosoftPathAgentLegacy,Example of scheduled task name
+Name,AMDSoftwareHealthCheckerV2,Example of scheduled task name
+Name,OneDriveInstallerTask,Example of scheduled task name
+Name,MicrosoftPathUpdaterV2,Example of scheduled task name
+Name,EdgePathHealthCheckerV12,Example of scheduled task name
+Name,AMDUpdaterLatest,Example of scheduled task name
+Name,SystemVersionInstallerLegacy,Example of scheduled task name
+Name,AMDVersionHealthCheckerLegacy,Example of scheduled task name
+Name,DomainAuthHost,Staging folder name
+SHA1,a5228797c09cee8cccfcddc5a2ace144d5302cc2,"Signed MSI installer used for malware delivery, masqeurading as Binance"
+SHA1,f27ad93a2cb8fd8a4539392b65f06495054d692c,"Signed MSI installer used for malware delivery, masqeurading as Remitano"
+SHA1,e863c0605a3605609d2a78ba667823901f560516,"Signed MSI installer used for malware delivery, masqeurading as OKX"
+SHA1,22211d985ba231c67cb0d28ce6a66b0e7d2801e9,"Signed MSI installer used for malware delivery, masqeurading as TradingView"
+SHA1,f312464d947e0add1ff14e6ad96c7944385af462,"Signed MSI installer used for malware delivery, masqeurading as TradingView"
+SHA1,16db7c7db12190a3babb72dbfe525f6f1cc27ddb,"MSI installer used for malware delivery, masquerading as BullVpn"
+SHA1,abd1e3b381bcbf6b952d857a67573d40e22c7fcf,"MSI installer used for malware delivery, masquerading as BullVpn"
+SHA1,13974454b87fdd8c88589f34d3a1aff9328e3594,"MSI installer used for malware delivery, masquerading as BullVpn"
+SHA1,95511d91022d2675d16ae73d17941057bbd24cf6,"MSI installer used for malware delivery, masquerading as BullVpn"
+SHA1,54dcbf0b771c262819b55b42c151e14d2567ad9d,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,68a9829afaa63dad4f7d4b3ec537571805294556,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,06b11e742491e56f931334686ae2398649ac50f1,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,1a0989622ef23b1a2fb159a4a46a23f556a35826,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,ccfdb6f5da8a53cc8a77db034c1465151f0b71da,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,fec66428200a6cbcb07fe1c1af286a842d06415b,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,b2af64bb36292eb3697b9bbfd9429fe9051f07e1,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,b398f2fee00f6668bb7334a8f24ad426abaed5d4,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,ab0168f7c0cb0f2d11743a00875302dd471572fa,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,d80955ed1eb3568c5d9f9543d860b23c4817e005,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,e1c3787ee85c1ab13e8bc669e16aa10db2a17ddd,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,22f36a3c64fd9a48d44e6c90c5258953e137f5fa,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,027b93cc9c0a04d97adbbb9d6186e36e03a501b9,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,f909c7cba414fe9cd63955e159fd73e6922eb849,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,0879e40e3647bbf979364c1609285bfc30c3b069,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,7bcd6fd589dd066460383a5a938d22ae3444ecd0,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,58af67510873b8c614d0848ff39f2145d6d209dc,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,d3795c07d7d23df6c8f5c75b3e62d3fa0a0764dc,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,51bee72c8063f4017d6920450ea586a700acb896,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,563c8b4c6e4e8bf84e3968c50f64acaba9a11bd2,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,39fab7747ce9e24869cc44ff6ee04b9b17f6710c,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,e2d76f737e5261ee7d5fa18f3a3e2d12e2912756,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,45fdab5d0ebbbc96504acea81554c88ed2fec114,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,97c45537456126dbabdaaa204280a4b7269a3c1f,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,49b10144ab5f125eda76e3a4f55cbc2598a47673,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,f922b756fe091a4b0f35e910fd4e543e8c18a2da,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,e5fdfef34a0577e15d7a6c8c22bbd3dd7b68464a,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,91447e0b38d7f3d8e4573cdbfa27b640dc01d0a2,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,a9a3c9fa3c8b9a19bc43b567fa6384729f2e1f7f,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,d20d206b84b1d8c81859ec6e47fa49a1535b2ff9,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,a748731cc45c9eb8cefc918d8f79245a49083946,"MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,15cccc4368b175fe1f0e61ebfdcdb60a6c3cc017,"Signed MSI installer used for malware delivery, masquerading as Binance"
+SHA1,a3a065f5a7111966da5258adbabb81638a0e50e3,"Signed MSI installer used for malware delivery, masquerading as Solana"
+SHA1,7a618237f6bfa84ee1ec03115099f71177ac83ae,"Signed MSI installer used for malware delivery, masquerading as Pi Network"
+SHA1,5160b8a4493555628747e06047181b8111ee2a6e,"Signed MSI installer used for malware delivery, masquerading as CoinMarketCap"
+SHA1,2abf8eb9c84cff3dcd2aa974b893ed1f468a08a4,"Signed MSI installer used for malware delivery, masquerading as Telegram Wallet"
+SHA1,341e7eeec13c9aa1272e659f2c06b70eafeeb2c0,"Signed MSI installer used for malware delivery, masquerading as MetaMask"
+SHA1,71e0b927f01b92020864ab170956e8f6249683e7,"Signed MSI installer used for malware delivery, masquerading as DEX Screener"
+SHA1,65c9c25116399ebbd5b8f484ecc3cb21cef9c2b5,"Signed MSI installer used for malware delivery, masquerading as eTor"
+SHA1,8ec884781732f06e9241d43339e06ba80ba26c82,"Signed MSI installer used for malware delivery, masquerading as Revolut"
+SHA1,c404f4a179b008e1e895ff7aad6c422b9f9bf878,"Signed MSI installer used for malware delivery, masquerading as BitGet"
+SHA1,c3c02781b7588486b9f523d3c80586e7c24d0fa2,"Signed MSI installer used for malware delivery, masquerading as CoinsPH"
+SHA1,b181034822caee68129de1bdab0810ee4fef141b,"Signed MSI installer used for malware delivery, masquerading as PDAX"
+SHA1,f325bfa72898a549a1306900cde37b8e7bdd2b5f,"Signed MSI installer used for malware delivery, masquerading as BitcoinVN"
+SHA1,b9ea520027340ae95bc8a2f4283b1a46d2d6d774,"Signed MSI installer used for malware delivery, masquerading as OKX"
+SHA1,9f2c681e8439331bb39638531f5e182937f325f4,"Signed MSI installer used for malware delivery, masquerading as Bitkub"
+SHA1,270ee9e05723ef672874ef958ca9b0c43a1080fc,"Signed MSI installer used for malware delivery, masquerading as Phantom"
+SHA1,606a82c0bca19cf9dc7ebf205fd22b1fbe986ba7,"Signed MSI installer used for malware delivery, masquerading as Remitano"
+SHA1,1a15f6378ef7581852d8a9071baa5bd24c8edc35,"Signed MSI installer used for malware delivery, masquerading as TradingView"
+SHA1,6ee164b9deebb9ca6c0db1801c793a3b538dff3f,"Signed MSI installer used for malware delivery, masquerading as Binance"
+SHA1,602c73dd257c7c2aaa996811fcf82ee4cd9654e1,"Signed MSI installer used for malware delivery, masquerading as Bybit"
+SHA1,37b2a17d086e5541b052a0f4019320e87d0fec72,"Signed MSI installer used for malware delivery, masquerading as Kraken"
+SHA1,5d0069049cd840a76ef6297f4e27490d07e1d79a,"Signed MSI installer used for malware delivery, masquerading as DoTrade"
+SHA1,96099aced1b2724dd7fc56f6978802b87aeebaab,Example of SmokeLoader infection chain leading to WeevilProxy
+Domain name,dns-resolve.pages.dev,Serves the bundled malware (build.zip) and manifest (manifest.json)
+Domain name,resolve-ns.pages.dev,Serves the bundled malware (build.zip) and manifest (manifest.json)
+Domain name,hasv.pages.dev,Serves the bundled malware (build.zip) and manifest (manifest.json)
+Domain name,r2.ohyoulookstupid.win,Serves the bundled malware (build.zip) and manifest (manifest.json)
+Domain name,test-ex-1.pages.dev,Serves the bundled malware (build.zip) and manifest (manifest.json)
+Domain name,87-899.help,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,foo-foo.bar,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,pffffer.icu,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,supernegro.mom,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,asvufw.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,adumktsa.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,printscreen.lol,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,qcaqnzvt.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,twisted.mom,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,luiowitz.cfd,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,runt.monster,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,schilllr.icu,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,paid-rewards.lol,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,drzjpnod-97b.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,wkegibkjntqejdk.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,1.asvufw.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,gentle-firefly-9577.asvufw.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,wispy-field-a970.adumktsa.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,test.asvufw.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,square-lake-8a43.qcaqnzvt.workers.dev,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,supercharming.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,dockmilk.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,18-22-59.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,firewall-813.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,csgo-play-de.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,lovely-race.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,external-sex.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,timing-kings.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,local-mailer.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,taylor-convert.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,experimental-tech.com,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,grpc-test.me,"Intermediate C2, serving follow-up scripts to loader"
+Domain name,wcpxlare.win,Main payload's C2 domain
+Domain name,1849.st,Main payload's C2 domain
+Domain name,carplay-link.com,Main payload's C2 domain
+Domain name,vertical-scaling.com,Main payload's C2 domain
+Domain name,llm-0014.com,Main payload's C2 domain
+Domain name,7777-202.com,Main payload's C2 domain
+Domain name,ggr-lach.com,Main payload's C2 domain
+Domain name,hat-kett.com,Main payload's C2 domain
+SHA1,1026ec6a755ee9736aadaac23e5fab89c0c15e1c,CustomAction - CustomAction1.dll
+SHA1,3c23e1e32750a30f49a07ae9ce390c947f5804d7,CustomAction - CustomAction1.dll
+SHA1,d353332212fac0d84e8810f53ecb8894e5c42bc3,CustomAction - CustomAction1.dll
+SHA1,0be5f1f42606cf96f8a4eee711eaa17356f2608d,CustomAction - CustomAction1.dll
+SHA1,30cfc7fab781eb674030d5e91a602000821fa501,CustomAction - CustomAction1.dll
+SHA1,fc8507f2c0266f51cbff407e2363d764c3412e8b,CustomAction - CustomAction1.dll
+SHA1,bb6b067aa56e0a0bca9a9c654411ea511affc6db,CustomAction - CustomAction1.dll
+SHA1,bf48b6c934a72df2e2a8aa1aa35d8ca8b26cb003,CustomAction - CustomAction1.dll
+SHA1,11b96d1efaa7ca9306dcc78762632a704f7a28b9,CustomAction - CustomAction1.dll
+SHA1,723075081859751a2e23c9ae14d5eb2ca6877a1c,CustomAction - CustomAction1.dll
+SHA1,eb158e6279f6235aa7045bc5bea9a715707ecd4a,CustomAction - CustomAction1.dll
+SHA1,611f10f7e5842390a804f7cefca4aa27ea984a30,CustomAction - CustomAction1.dll
+SHA1,290711b106d713691ea647489589dbf777e37263,CustomAction - CustomAction1.dll
+SHA1,0bb2e9bf6e8dc097f9f7602f965af099c047d85f,CustomAction - CustomAction1.dll
+SHA1,f71a12448d8658e10e7cdfe2257da584c6d0e8a4,CustomAction - CustomAction1.dll
+SHA1,63a0f4aa9ce2e7eb1e72c746af9ba4407105e213,CustomAction - CustomAction1.dll
+SHA1,993d3f5b958bfbb7515d2254998909495797579f,CustomAction - CustomAction1.dll
+SHA1,f3f8b3eb0cec0ecc3cc28a8e053c50cd955f155f,CustomAction - CustomAction1.dll
+SHA1,c0ee0d9299c40735ec6abb96e9fa5ea4597b47cc,CustomAction - CustomAction1.dll
+SHA1,e99261d878ce94f835286ef3041b31f1b5f7c3f6,CustomAction - CustomAction1.dll
+SHA1,de533dc9eae0b8d4318cbe9fe012e5324aa3b173,CustomAction - CustomAction1.dll
+SHA1,0bf90d452522da04302b426aad39d8d2e1345f8e,CustomAction - CustomAction1.dll
+SHA1,88b31481b4cc34f351343ab239bba208d5a59a8f,CustomAction - CustomAction1.dll
+SHA1,29fe4121cec3d92c63e41a26edcd32b4c81667de,CustomAction - CustomAction1.dll
+SHA1,7d1b332eeb9aa098bd8cfb6930584472bf477410,CustomAction - CustomAction1.dll
+SHA1,3302fc9af4414aa3748450fc410d1273f0a99050,CustomAction - CustomAction1.dll
+SHA1,f832a64d20644d3eea18d210a165737e12f0aedc,Example uninstall script served by loader script
+SHA1,1cc823cf5fb340246227438b4f9013bcc961055d,Example payload delivery script served by loader script
+SHA1,5bafc80c8ce50e5103d4383554e44c74c2a2e56d,Example loader script
+Domain name,tujalog-online.com,Example of domain likely used in adverts through Google Display Network
+Domain name,thinkscopeanalytics.com,Example of domain likely used in adverts through Google Display Network
+Domain name,ru-consultant.com,Example of domain likely used in adverts through Google Display Network
+Domain name,quantifyedge-online.com,Example of domain likely used in adverts through Google Display Network
+Domain name,primebusinessinsights.com,Example of domain likely used in adverts through Google Display Network
+Domain name,phidata-analytics.com,Example of domain likely used in adverts through Google Display Network
+Domain name,pearlprofits.com,Example of domain likely used in adverts through Google Display Network
+Domain name,money-markets-ph.com,Example of domain likely used in adverts through Google Display Network
+Domain name,mindcraftph.com,Example of domain likely used in adverts through Google Display Network
+Domain name,menturaxph.com,Example of domain likely used in adverts through Google Display Network
+Domain name,marketview-new.com,Example of domain likely used in adverts through Google Display Network
+Domain name,market-pulseph-new.com,Example of domain likely used in adverts through Google Display Network
+Domain name,manilamoney.com,Example of domain likely used in adverts through Google Display Network
+Domain name,investnam-online.com,Example of domain likely used in adverts through Google Display Network
+Domain name,insightforge-online.com,Example of domain likely used in adverts through Google Display Network
+Domain name,dylloraacanorvn.com,Example of domain likely used in adverts through Google Display Network
+Domain name,domineomercado-new.com,Example of domain likely used in adverts through Google Display Network
+Domain name,datavistaonline.com,Example of domain likely used in adverts through Google Display Network
+Domain name,dashlytic-new.com,Example of domain likely used in adverts through Google Display Network
+Domain name,clarityops-new.com,Example of domain likely used in adverts through Google Display Network
+Domain name,corelyticsstrategicmetricsgroup.com,Example of domain likely used in adverts through Google Display Network
+Domain name,capitasium.com,Example of domain likely used in adverts through Google Display Network
+Domain name,capital-mindonline.com,Example of domain likely used in adverts through Google Display Network
+Domain name,bizintellabs.com,Example of domain likely used in adverts through Google Display Network
+Domain name,finversity-online.com,Example of domain likely used in adverts through Google Display Network
+Domain name,vietmetrics.com,Example of domain likely used in adverts through Google Display Network
+Domain name,claveinversor.com,Example of domain likely used in adverts through Google Display Network
+Domain name,olhareconomico-online.com,Example of domain likely used in adverts through Google Display Network
+Domain name,quantlens-ml.com,Example of domain likely used in adverts through Google Display Network
+Domain name,talentgenvn.com,Example of domain likely used in adverts through Google Display Network
+Domain name,teachariscorevn.com,Example of domain likely used in adverts through Google Display Network
+Domain name,ventures-sphere.com,Example of domain likely used in adverts through Google Display Network
+SHA1,878f52ee786cc341839c15cf64210f603248fa5e,Example of build.zip containing main payload
+SHA1,9f3e8556862ccca49609299bab2623289cdc2d01,Example of build.zip containing main payload
+SHA1,3b2712d83358f08dcb32af8a44a84446a81f2dc4,Example of build.zip containing main payload
+SHA1,2e0c10bdc60b8f1221d5b7dbdfd22446c4ad29e4,Example of build.zip containing main payload
+SHA1,e0117f34e53a8ff5fce259796d8d798685aa332c,Example of build.zip containing main payload
+SHA1,97e05ac155c46c06ea2082d67ea9c2ffb45ae2c0,Example of build.zip containing main payload
+SHA1,610df7f1519dbf7c16674cb681c91684f89cc4dd,Example of build.zip containing main payload
+SHA1,ce33ef32a9e0a6f11f84a5437bed183d8ea6fda4,Example of build.zip containing main payload
+SHA1,0bda793ba9126445ca94ed10349875a7c3f6d805,Example of build.zip containing main payload
+SHA1,7615020a6eb2d568f29f48b3d41f9febb66d1b51,Example of build.zip containing main payload
+SHA1,91ebddd2af48564758cc7dae94cfc592100235ca,Example of build.zip containing main payload
+SHA1,07fefe1d3413cc0309840d5a313d82b6c4f98968,Example of build.zip containing main payload
+SHA1,6fe2fe0a5ee8e761fe78136f2a4752beb0d7fcbf,CustomAction - TaskScheduler.dll
+SHA1,a6a598191e18135bfba804266bd239ac2d8c8c65,CustomAction - TaskScheduler.dll
+SHA1,9022b4a13965ae4a5a8b5f81ce328d4aea4057e5,CustomAction - TaskScheduler.dll
+SHA1,1c65b1a4276adc01b1d113ff485f42d7dc329b41,CustomAction - TaskScheduler.dll
+SHA1,a0b93f5425e11025cf81a7a6bd3621147f4e5347,CustomAction - TaskScheduler.dll
+SHA1,4897d9dd653f5892f6db4eeb93ec7a436c529132,CustomAction - TaskScheduler.dll
+SHA1,94b4b272aa233d5400918d647e6fcbfe77a6cfee,CustomAction - WMI.dll
+SHA1,b0af0e2009e805a14680bea7dd49ae2c0f2499c1,CustomAction - WMI.dll
+SHA1,ad8ef76ccd5b89670c18e0bb35b4d9e2c7b4701d,CustomAction - WMI.dll
+SHA1,36348461d8ec97cf802ba01779da96aef564293c,CustomAction - WMI.dll
+SHA1,c4305258fa22ba71d253e49584a0f1fdf4525f57,CustomAction - WMI.dll
+SHA1,e80f876153fb2759002c796d8813494815ff741f,CustomAction - WMI.dll
+Domain name,binancedesktop.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancesoftware.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,telegramsoftwarepc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,mine-p.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,metamasksoftware.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancesoftwareapps.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binanceappsoftware.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bitgetpc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,app-downloads-desktops.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktops-downloads-app.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,pc-downloads-desktop.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktop-app-download.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktop-downloads.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,tradingviewdesktopapp.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancewindows.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,remitanopc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,metamaskpc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancewindowsapp.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancedownloadapps.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancesoftwareapp.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,tradingviewpc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bitkubapp.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancepcapp.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binance-ph.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,coinspc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancedownload.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,tradingviewdownload.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancepcapps.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bitkubpc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binanceapps.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,okxdownloadpc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binancepcdownload.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binanceappdownload.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bybitpc.app,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,lmear.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,downloads-app-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktop-apps.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,tttery.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,jhjggg.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,uuiewer.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,app-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,downloads-apps.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bobik15.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,pc-apps-download.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,pc-app-download.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,llaser.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binance.rewards-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,binanceapp-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktopreward.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,rewarddesktop.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,app-pc-download.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,asiop.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,app-windows.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,app-desktop.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,kkkerrr.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,blissfuulhaven.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,apps-desktop.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bybit-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,download-apps-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,restless-bush-aec3.wkegibkjntqejdk.workers.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,sdgerhg.pages.dev,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,rewards-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,apps-pc-downloads.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,pc-apps-downloads.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,app-pc-downloads.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,pc-desktops-apps.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,app-desktops-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktops-downloads-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,download-pc-desktops.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,pc-app-desktops.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,download-desktops-pc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktops-download-app.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,pc-download-desktops.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,download-desktops-app.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bullvpn.io,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bullvpn.net,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bybitdesktop.app,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bybitdesktop.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bybitdesktop.net,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bybitdesktop.org,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,bybitpc.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
+Domain name,desktop-reward.com,"Domain used as part of initial delivery, e.g. masqeuraded download site, backend site, or redirection"
