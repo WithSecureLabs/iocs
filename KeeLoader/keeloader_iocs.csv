@@ -1,0 +1,103 @@
+﻿Ransomware Incident IOCs,Other context
+hxxps://lvshilc[.]com/KeePass-2.56-Setup.exe ,Final redirect - KeeLoader downloader URL
+hxxps://keeppaswrd[.]com/download.php ,Typosquat redirect url
+hxxps://arch-online[.]com/List/com2/9O29EO3IRSBB ,Cobalt Strike C2 URL
+hxxps://aicmas[.]com/List/com2/9O29EO3IRSBB ,Cobalt Strike C2 URL
+hxxps://aicmas[.]com/Apply/readme/VJICARU60DC?[REDACTED]=[REDACTED] ,Cobalt Strike C2 URL
+KeePass-info[.]aenys[.]com ,Malvertised domain
+keeppaswrd[.]com ,Typosquat redirect domain
+lvshilc[.]com ,Final redirect - KeeLoader downloader domain
+arch-online[.]com ,Cobalt Strike C2 domain
+aicmas[.]com ,Cobalt Strike C2 domain
+,
+Nitrogen IOCs,
+1ba8d063-0[.]b-cdn[.]net,Cobalt Strike Nitrogen Cluster C2
+roatanforareason[.]com/wp-content/plugins/fix/TreeSizeFreeSetup.zip,Nitrogen Download URL
+2dd75a7f9948d794e95539b9a9ccc6a1488fb64dbe099fea401a13f98166d6ae,WinSCP – Nitrogen
+5b48bbf2364f78812ea411ef41fb8b693a3965df13596b303e12f69908784d03,TreeSize Free – Nitrogen
+fa3eca4d53a1b7c4cfcd14f642ed5f8a8a864f56a8a47acbf5cf11a6c5d2afa2,WinSCP – Nitrogen
+,
+KeePass download domains,
+KeePass-download.grmspace[.]com,Other malvertised KeeLoader domain
+KeePass-download[.]insightsforconsultancy[.]com,Other malvertised KeeLoader domain
+KeePassx[.]com,Typosquat KeePass domain
+keegass[.]com,Typosquat KeePass domain
+keebass[.]com,Typosquat KeePass domain
+keespass[.]biz,Typosquat KeePass domain
+KeePass[.]me,Typosquat KeePass domain
+alldataservice[.]com,KeePass exfil domain
+howupbusiness[.]com,KeePass exfil domain
+,
+Suspicious Domains (Other),
+salliemae-com-login[.]aenys[.]com,Other suspicious subdomains of Aenys
+winscp-net-download[.]aenys[.]com,Other suspicious subdomains of Aenys
+woodforest-login[.]aenys[.]com,Other suspicious subdomains of Aenys
+phantom-wallet-com[.]aenys[.]com,Other suspicious subdomains of Aenys
+dexscreener-com[.]aenys[.]com,Other suspicious subdomains of Aenys
+Pump-fun[.]aenys[.]com,Other suspicious subdomains of Aenys
+Pump-fun-official[.]aenys[.]com,Other suspicious subdomains of Aenys
+burleson-appliance[.]net,Content pivot from malvertised domain (Aenys)
+concord-appliance[.]com,Content pivot from malvertised domain (Aenys)
+desoto-appliance[.]net,Content pivot from malvertised domain (Aenys)
+resvat[.]com,Content pivot from malvertised domain (Aenys)
+takuripo[.]com,Content pivot from malvertised domain (Aenys)
+zowhy[.]com,Content pivot from malvertised domain (Aenys)
+smakotin[.]com,Content pivot from malvertised domain (Aenys)
+resvat[.]co,Content pivot from malvertised domain (Aenys)
+protek-tech[.]com,Content pivot from malvertised domain (Aenys)
+larcausk[.]site,Content pivot from malvertised domain (Aenys)
+nestlingspace[.]com,Content pivot from malvertised domain (Aenys)
+animatedwebworks[.]com,Content pivot from malvertised domain (Aenys)
+"precizeabrilliant[,]com",Content pivot from malvertised domain (Aenys)
+cadcamlabs[.]ru,Content pivot from malvertised domain (Aenys)
+prythera[.]com,Content pivot from malvertised domain (Aenys)
+,
+Certificates Observed,
+Name: Redstrikevn Company Limited,
+Serial number: 00 8A 99 59 F5 36 A0 03 6F 49 A2 14 33 17 56 2D 3F,
+Thumbprint: 4D36C5325245186319D22BB933EE4C9289FAC559,
+,
+Name: ООО НЕВА КЕРАМИКС (Revoked),
+Serial number: 4645E8244D0240FED60A8923999340F10F363EA5,
+Thumbprint: 4645E8244D0240FED60A8923999340F10F363EA5,
+,
+Name: ANALYZER ENTERPRISES LLP,
+Serial number: 41 23 C6 2D FD 13 EF 9C C0 69 0E 57,
+Thumbprint: F3082CA729AA18DC86DD70A87B75ED473B4B0C15,
+,
+"Name      Shenzhen Kantianxia Network Technology Co., Ltd.",
+Thumbprint   2CF75DAE1A87CA7962CAF67E7310420BBBC30588,
+Serial Number 52 B0 5A 2A 3A D5 CA E2 94 6C 80 F5 B6 21 E3 82,
+,
+"Name: MekoGuard Bytemin Information Technology Co., Ltd.",
+Serial number: 26 A6 81 9A C8 1B 7A 25 BC E7 D3 54,
+Thumbprint: A53E2045C456BC5879E1159245884740FF0BE11D,
+,
+Name: AVARKOM LLC,
+Serial number: 24 83 90 00 0F C9 ED 9D D9 28 5F C2,
+Thumbprint: 7020BB7A7A798C1BE684569FAD4CFE4956E7C856,
+,
+Name: S.R.L. INT-MCOM,
+Serial number: 05c1f7dd747b1af79ac427a15a8b64ae,
+Thumbprint: 467c6c43e6fbb17fcaefb46fc41a6b2b829e0efa,
+,
+KeePass Installers,
+0e5199b978ae9816b04d093776b6699b660f502445d5850e88726c05e933e7d8,
+83a13d14e1cbc25e46be87472de1956ac91727553bb3f019997467b2bab2658f,
+2c510f9ae4472342faafb7f2a1f278160f3581ead8ccd5b7ba7951863dcba2f5,
+c6ed28cc576340b9f0e9324bef8c8c428bcd32c5234be73b885caa20549f332b,
+0000cff6a3c7f7eebc0edc3d1e42e454ebb675e57d6fc1fd968952694b1b44b3 ,
+1e6acd62927a272c41eb1def436d301ab8cbfc3bda459231bc2e696225eb5715,Added after report release
+,
+KeePass Executables,
+f1c6d8e594f85cd2cb844a3e8a90509ea137a67d7ef3f1b68a7be17df6ccac74,
+128a68a714f2f6002f5e8e8cfe0bbae10cd2ffe63d30c8acc00255b9659ce121,
+9cb3de5d5cc804235bd12c00ed45ec9d6116cc2c7523986dddb4d8643d54f5e,
+a5e643c6cda31e0c7691dab58febe2efce0e98c33b19fe495b74b885de134a22,
+b51dc9ca6f6029a799491bd9b8da18c9d9775116142cedabe958c8bcec96a0f0,
+,
+ShInstUtil Files,
+0f6cfb62ed2f118c776a049b93e5d3e7b226f74e7b466c1cfed3c449ed23a42b,
+42d391dd7bfa4ea348ec1cd2620ea6458b37682f2b303e4a266e3d11a689f8ab,
+3733b3be213ee4b959b70ff070b46e30b2785b14f1aecb74e0788dd00a1e1853,
+0fc4397d28395974bba2823a1d2437b33793127b8f5020d995109207a830761b ,
