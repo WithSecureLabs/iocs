@@ -1,0 +1,38 @@
+Component,SHA256,Applied packers,Architecture,Payload compiler,Driver name,Targeted AV/EDR vendors,Cert thumbprint
+STONESTOP,0b4295bcd7bf850fea2b1bc09f652da028af33d625b11781ac875c603a52e5a8,VMProtect + HeartCrypt,x86,GCC/MingW,zkjna.sys,Defender + ESET,
+STONESTOP,0e7930481e53e4fc79a6aa9d1b037b4127d66a3138b8a1a03f1fc50ddec9f0a6,VMProtect + HeartCrypt,x86,GCC/MingW,Iezog.sys,Defender + TrendMicro,
+STONESTOP,0eaa413dc13bc846258e5b4670142bea20e567065b7f4bbc135fe62d93878160,VMProtect + HeartCrypt,x86,GCC/MingW,mzhbx.sys,Defender + SentinelOne,
+STONESTOP,147dee11a406a86dd9b42982c091e8acbaca13614edb75f447cbaffb23017a90,VMProtect + HeartCrypt,x86,GCC/MingW,nxaiJn.sys,Defender,
+STONESTOP,15cd13e0cad20394ec1405748e4bd50e3f27313c6274aee098c4eb0ede970b4c,VMProtect,x64,GCC/MingW,pE6KNzQ.sys,Defender + TrendMicro,
+STONESTOP,2073d94af0aa560c11e3399d2b83a720ee373a46ccf835486e57c37e3d1d9a25,VMProtect + HeartCrypt,x86,GCC/MingW,kcrWr.sys,Defender + Sophos + HitmanPro,
+STONESTOP,28fa1789fff41060e35496507d518a032c2a6142712843eb98ff63f6ec99997a,VMProtect,x86,GCC/MingW,pcdar.sys,Defender + Sophos + HitmanPro,
+STONESTOP,2936f5f3ff24f5bb42eace4ad2d64989b19dc6cd75d8f4ee83496ee6bdf169f6,VMProtect + TangleCrypt,x64,Visual Studio,fehmr.sys,Defender + Bitdefender,
+STONESTOP,43cd3f8675e25816619f77b047ea5205b6491137c5b77cce058533a07bdc9f98,VMProtect + HeartCrypt,x86,GCC/MingW,smuol.sys,Defender + ESET + Symantec + Sophos + HitmanPro + Webroot + Kaspersky,
+STONESTOP,4686bf07db10376fb4c8ce3b729c4ab60d89b454fc57feb39f9607cb43a081d9,VMProtect + HeartCrypt,x86,GCC/MingW,rWNvj.sys,Defender + SentinelOne,
+STONESTOP,48e6e071b70566bc9fabbbff995946076b410f5459356b65051ae10e04fe512f,VMProtect + HeartCrypt,x86,GCC/MingW,mraml.sys,Defender + Sophos + HitmanPro,
+STONESTOP,49ed990459486e569cd1428b045baff1e61b86cdeef84a75384b5f7f46bd678e,VMProtect + HeartCrypt,x86,GCC/MingW,mcqeh.sys,Defender + Fortinet + TrendMicro,
+STONESTOP,5baf5445c4b22c645ff6d509a744e0b6c96fe5c5ea84ed471421af890cfd8533,VMProtect + HeartCrypt,x86,GCC/MingW,wwSyR.sys,Defender + Bitdefender + ESET + Webroot,
+STONESTOP,5c8f53bd9eb13ac07ca5190ed0946c9feb5c73627bf5c0c9e79b28626310ad90,VMProtect + HeartCrypt,x86,GCC/MingW,hshhv.sys,Defender + SentinelOne (only drivers),
+STONESTOP,5e423483165666976997e17b9834b9f6bd0da6c4b0da23f45584203f7c08fe4c,VMProtect + HeartCrypt,x86,GCC/MingW,xtvwi.sys,Defender + Cylance,
+STONESTOP,77e089dfeb1d114d4171e461e0c4f36b895ed8ef5ee23e8b243bdf491837b5b6,VMProtect + HeartCrypt,x86,GCC/MingW,igJTf.sys,Defender + McAfee + TrendMicro,
+STONESTOP,9dd36887e84ec25414fee984e22e42b1a76e893f1d476d689d89719ffe8077ff,VMProtect + HeartCrypt,x86,GCC/MingW,mlwvu.sys,Defender + CrowdStrike,
+STONESTOP,aae2e7f4feb75a61c98a727a9da9c3eba213e9e43aa7c9e81e2b3c2f6439b908,VMProtect + HeartCrypt,x86,Visual Studio,iwzre.sys,Defender + Webroot,
+STONESTOP,b8c1f3d24f0282c84ed599147462d4031df43cd4fceef38afcee4b3fc8f16e7b,VMProtect + HeartCrypt,x86,GCC/MingW,xxvgw.sys,Defender + Cisco,
+STONESTOP,d2939cd18c9072488767520be081fef71d560896c6293b6633cab099fcd238ae,VMProtect + HeartCrypt,x86,Visual Studio,zyzna.sys,Defender + SentinelOne,
+STONESTOP,ddf23db6881e42e65440c26a208c9175ad705c708f0a5d8426a2636bad79777c,VMProtect + HeartCrypt,x86,GCC/MingW,dzken.sys,Defender + Symantec + F-Secure/WithSecure,
+STONESTOP,df6cb5199c272c491b3a7ac44df6c4c279d23f7c09daed758c831b26732a4851,VMProtect + HeartCrypt,x86,GCC/MingW,smuot.sys,Defender + ESET + Symantec + Sophos + HitmanPro + Webroot + Kaspersky,
+STONESTOP,e6309fdb03313dd1b62467684a49692de5c27bbc3c17e65e2010cfbf686a4bf3,VMProtect + HeartCrypt,x86,GCC/MingW,bukzc.sys,Defender + SentinelOne,
+STONESTOP,f11930cb70556941b6e3c8530956f1381a4cdbd1e3fe8e9f363487a73b45a9c0,VMProtect + HeartCrypt,x86,GCC/MingW,mnpki.sys,Defender + TrendMicro,
+STONESTOP,f1c37f93d000134b4bfe439add26f3c146958dd87b230123d58790fedce6336a,VMProtect + HeartCrypt,x86,GCC/MingW,scmsa.sys,Defender + Kaspersky,
+STONESTOP,f51397bb18e166c933fe090320ec23397fed73b68157ce86406db9f07847d355,VMProtect + HeartCrypt,x86,GCC/MingW,HvYit.sys,Defender + SentinelOne,
+STONESTOP,fb3fc93dc627c7dfd8d95c1d66c2cb66caac92783b6d6eb33ac5b91647871ae6,VMProtect + TangleCrypt,x64,GCC/MingW,fehmr.sys,Defender + Bitdefender,
+ABYSSWORKER,0142346650907fe3b7ef7313be6863b15413b17b1ee900efa77f9b7c923718cf,VMProtect,x64,,,,D01B544CF4A4F901FA496BEA2B3A8F66F9583CB2
+ABYSSWORKER,05f8f514d1367aca856564af5443a75f47d22a30ce63f0b024a41e6b9553a527,VMProtect,x64,,,,7749BE16F266669D505684E9F002C689706C4295
+ABYSSWORKER,06eccd102c9105957773b32538943531d9c39d0a504ceb3b9b155e97e3b0b134,VMProtect,x64,,,,7749BE16F266669D505684E9F002C689706C4295
+ABYSSWORKER,1e42c8cb410a7ed653cfe62bbd8cf191f31a47337fe1ffcc35232d03f2da05ef,VMProtect,x64,,,,D01B544CF4A4F901FA496BEA2B3A8F66F9583CB2
+ABYSSWORKER,3fbe5a1ed857a6736e061a6850706f9e8a7e881f024bff044df1c34795b89bf4,VMProtect,x64,,,,7749BE16F266669D505684E9F002C689706C4295
+ABYSSWORKER,6a2a0f9c56ee9bf7b62e1d4e1929d13046cd78a93d8c607fe4728cc5b1e8d050,CodeVirtualizer,x64,,,,0786E6A95B9B6FC9495F319AC2E334103AAB292F
+ABYSSWORKER,927e3aef03a8355d236230cace376b3023480a40c5ac08453c07dab343dd1f11,VMProtect,x64,,,,D01B544CF4A4F901FA496BEA2B3A8F66F9583CB2
+ABYSSWORKER,a2e49aaa95f50438153ca6e55c909229df3a006b324622cc32477479de0afb6b,VMProtect,x64,,,,00F1435238447BBA9560E2A9A8C781861EBB15BC
+ABYSSWORKER,efb642ad3fab4a2e6cb4de829b60e04dd0d9ae7c2b4cf544de28c38f978b4136,VMProtect,x64,,,,D01B544CF4A4F901FA496BEA2B3A8F66F9583CB2
+XWorm,73b6e7cdd10c373a633367fd3bde791278e7900b342a21e2bad2b8e5cfc33746,TangleCrypt,x86,,,,
