@@ -1,0 +1,182 @@
+﻿Type,Value,Note
+SHA256,476334f9254ef0277b3462b6086655f38358a983b95991cfe4dcdd787740906a,PhantomMail: PyInstaller loader (K-Lite icon) - August 2025
+SHA256,78773eb9738bc3306a56bf39adc8212226479c24af8bf453be9d57103a91a904,PhantomMail: ZIP - August 2025
+SHA256,62b585f36d4b14fa1e036feed692267aa098e7fc6cabb468a07997a025309299,PhantomMail: ZIP - Early September 2025
+SHA256,d60dd96ef92b43e2e4f955dd76448fc320c3f8445b661d9a4a3c40caca0aa8a5,PhantomMail: PyInstaller loader - Early September 2025
+SHA256,687629ca9dc5b9b4bdf6c06fb1405449638b905f3a0c08bccac1c519ef22964d,PhantomMail: ZIP - Late September 2026
+SHA256,8a7401444dd7c85b36ff7b1d0b36c5953692ef32dbeac7642fb7c1034bd8a726,PhantomMail: JS loader (LOOKVALJS) - Late September 2026
+SHA256,e81af6ae6862d905d8634a1f6e0a8893ba28e3ce61d12ccac020ef6fae802e8b,PhantomMail: RAR - December 2026
+SHA256,93111e523c38d98247a78a0d1d9ae163e9874acb70721f6fe0bf451c62fff283,PhantomMail: JS loader (LOOKVALJS) - December 2026
+SHA256,c823a315c2c78d2fd345c9b38bb7fc31a8cbff96c534ce9cc66c4e54bc7935a2,PhantomMail: JS loader (LOOKVALJS) - December 2026
+SHA256,5115eca388860371d994457793f3a3c2c3d106da48ca12ecccb9432522c56cc3,PhantomMail: JS loader (TEASOUPJS) - March 2026
+SHA256,bd3f35b91bf83427e953d4cf531a0ee4b5ec9fc76b91700274effe0eba22510f,PhantomMail: RAR - April 2026
+SHA256,2abb318455960b446d034967c8403ec4339ba248b946f02cb1307ed7e6f4e327,PhantomMail: JS loader (TEASOUPJS)- April 2026
+E-mail address,centrenergo.ukr@gmail.com,PhantomMail: E-mail address used for spearphishing activity in December 2025
+E-mail address,centrenergo.ua@gmail.com ,PhantomMail: E-mail address used for spearphishing activity in December 2025
+E-mail address,office.dsns.dp@gmail.com,PhantomMail: E-mail address used for spearphishing activity in March 2026
+E-mail address,kanc.kh.dsns@gmail.com,PhantomMail: E-mail address used for spearphishing activity in March 2026
+E-mail address,office.cip.ua.gov@gmail.com,PhantomMail: E-mail address used for spearphishing activity in April 2026
+E-mail address,office.gov.cips@gmail.com,PhantomMail: E-mail address used for spearphishing activity in April 2026
+Filename,форма акта перевірки.XLS.js,PhantomMail: Filename used across spearphishing campaigns
+Filename,форма акта перевірки територій.rar,PhantomMail: Filename used across spearphishing campaigns
+Filename,матеріали конференції з кіберзахисту_pdf.exe,PhantomMail: Filename used across spearphishing campaigns
+Filename,пріоритетні теми співпраці.exe,PhantomMail: Filename used across spearphishing campaigns
+Filename,зразок заявки на отримання фінансової підтримки.Docx.rar,PhantomMail: Filename used across spearphishing campaigns
+Filename,Заявка на забезпечення.rar,PhantomMail: Filename used across spearphishing campaigns
+URL,https://storage.vlasiuk.kiev.ua/SW90D0qhta/матеріали_конференції.zip,PhantomMail: Initial-stage malware download link (file hosting service)
+URL,https://share.secureinfo.eu/get/ypMXMG58xH/Матеріали_конференції_доп.zip,PhantomMail: Initial-stage malware download link (file hosting service)
+URL,https://www.4sync.com/web/directDownload/tcqtmocL/MyE7HPqt.11b47e3a02edac898638b1906774210d,PhantomMail: Initial-stage malware download link (file hosting service)
+URL,https://drive.google.com/file/d/1RDXHPZtCzOXn6GN7UidXPo4qqZOA_UGd,PhantomMail: Initial-stage malware download link (file hosting service)
+URL,https://drive.google.com/file/d/12ffiBTWHm6GW8chJNIXuOeALPI82VnNs,PhantomMail: Initial-stage malware download link (file hosting service)
+URL,https://drive.google.com/file/d/1wkgvtTw_g5CvK84rWiHCr6HPZZb_OeKd,PhantomMail: Initial-stage malware download link (file hosting service)
+URL,https://drive.google.com/file/d/1aSIXJgZUT7AQEp5B_D7gyHRq74EFUxoz,PhantomMail: Initial-stage malware download link (file hosting service)
+Domain,lapas.live,PhantomClick: Fake captcha domain masquerading as LAPAS (Latvian Platform for Development Cooperation).
+Domain,zoomconference.click,PhantomClick: Fake captcha domain masquerading as Zoom Conference
+Domain,zoomconference.app,PhantomClick: Fake captcha domain masquerading as Zoom Conference
+IP address,188.124.59.120,PhantomClick: Hosting lapas.live
+IP address,193.233.23.81,Hosting PhantomClick's zoomconference.app and zoomconference.click as well as PrincessClub's princess-mens.click
+SHA256,e8d0943042e34a37ae8d79aeb4f9a2fa07b4a37955af2b0cc0e232b79c2e72f3,PhantomClick: Lure document containing link to zoomconference.app
+SHA256,42464c188cb8116b63938b3236504ec4ae31c7cadb9063085b30dd468d88860f,PhantomClick: Similar lure document
+SHA256,7ac06aaf0cdc1c1f0f14b0e8ccc550f9df20e79f3ce321207ec7a1867d6227ef,PhantomClick: Similar lure document
+SHA256,f79b9d14b93d4c509386684f2aeebe53ab088e704b38b359db3ee7991942aec6,PhantomClick: Similar lure document
+SHA256,08eba15964cae61156a99d7ac33eedebdd6e9f3465dc77b5d8dc17dbedc2194a,PhantomClick: Similar lure document
+SHA256,18db95f2ae20a4ea86b3296f409eb3fc1131d2758c5bfdbda16a424a64e97d18,PhantomClick: Similar lure document
+SHA256,e9634032df81334e9e960ab8b88ff05a0f7ec9c034dc012f816f09e23c18d41b,PrincessClub: Initial-stage malware: RAR -> JS loader (LOOKVALJS)
+SHA256,40f9399ea067d69c0985aecdc54beddbcb585d7f660606e5bb4be981811c28ba,PrincessClub: Initial-stage malware: NSIS -> PyInstaller loader (LOOKVALPS)
+SHA256,f8fd89b4d0d2608dbdf6e79282b7dc3fa3bef9b199a0dd02f15660cd02c73361,PrincessClub: Initial-stage: PyInstaller loader
+SHA256,5e6c5b6604d88f044bff53b6576f7b15046baa666fa72bafe62069a8b9e9452f,PrincessClub: Initial-stage malware: .NET loader
+SHA256,48a371a3973983a9bdb395cb33d6fce68d75b41d4bfd86d3f923cff79b545efc,PrincessClub: Initial-stage malware: .NET loader
+SHA256,f56170fc141e2fce7449a01af9bda7b22b8909b6c8eaf698e5a149e3da75eeac,PrincessClub: Initial-stage malware: .NET loader
+SHA256,1b916c486ec621fb66bd4521dddad5df69bd35c4b76a980c0b924babf566cb84,PrincessClub: Initial-stage malware: .NET loader
+SHA256,cbaf6cdb2acbd293d7e58cabe41449027a28b84223ba88f19e4463ec4176dad0,PrincessClub: APK (FallSpy)
+SHA256,bcb9e99021f88b9720a667d737a3ddd7d5b9f963ac3cae6d26e74701e406dcdc,PrincessClub: APK (FallSpy)
+Domain,strip-mens.tilda.ws,PrincessClub: Princess Club site
+Domain,princess-mens.fun,PrincessClub: Princess Club site
+Domain,princess-mens-club.com,PrincessClub: Princess Club site
+Domain,princess-mens.click,PrincessClub: Princess Club site
+Domain,princessclub.click,PrincessClub: Princess Club site
+Domain,princessclub.best,PrincessClub: Princess Club site
+Domain,princessclub.online,PrincessClub: Princess Club site
+Domain,princessclub.cyou,PrincessClub: Princess Club site
+Domain,clubprincess.click,PrincessClub: Princess Club site
+Username,vikagogogo111,PrincessClub: Telegram user used for fake girl persona
+Username,nastyaa2001lov,PrincessClub: Telegram user used for fake girl persona
+Username,lilymihalyk,PrincessClub: Telegram user used for fake girl persona
+IP address + port,89.37.185.60:14000,Nebo: Fake ‘nebo’ login page
+IP address + port,74.112.102.120:14000,Nebo: Fake ‘nebo’ login page
+SHA256,87b8abb05c7ee5642a5e801e7825dfa5ee4c1393ac998e87470ab53cc75e1842,Nebo: APK (FallSpy)
+Domain,frontforce.org,DroneLink: DroneLink: Drone-themed charity site
+Domain,ukrguard.org,DroneLink: Drone-themed charity site
+Domain,ukrbezpeka.online,DroneLink: Drone-themed charity site
+Domain,ironbrave.online,DroneLink: Drone-themed charity site
+Domain,ukrvarta.online,DroneLink: Drone-themed charity site
+Domain,edbo.linkpc.net,DroneLink: Initial staging domain
+Domain,edbo.publicvm.com,DroneLink: Initial staging domain
+Domain,edbo.work.gd,DroneLink: Initial staging domain
+Domain,dsszzi.linkpc.net,DroneLink: Initial staging domain
+Domain,declaration.linkpc.net,DroneLink: Initial staging domain
+SHA256,b189b6099e6ad190fd67e0dfa41f0adf29f75bb46d541dce6d4d4c632b58d42f,DroneLink: Initial-stage PDF document
+SHA256,e1f86fe0d103979da38a2be7fe3bf1d3eb63c5b60b5b952e02334559396a72b6,DroneLink: Initial-stage PDF document
+SHA256,a1a67fbceac6b3b840893e375da5c449d0dacb22b4a914c5ff9827d42c991758,DroneLink: Initial-stage HTA file (decoy +payload)
+SHA256,c9dfd29fba3eb8a3325faea0be46c41dfe2b44cdee94ae65658c4b0a9b85ffc7,DroneLink: Initial-stage HTA file (decoy +payload)
+SHA256,db1776cc96cb89c3bb39314363ae8476fea3421877214f362005d1ed59574c10,DroneLink: Initial-stage HTA file (decoy +payload)
+SHA256,d9810fa6aa59864ceef509ed551da85fce31d69cfcd78f2f8b146c761387370e,Other associated activity: Map APK (FallSpy)
+SHA256,4e6f85802d365751fa25c7014002ae44329a2d037d7b21f4bc34091b0c01b7b7,Other associated activity: Elite Dance Studio APK (FallSpy)
+SHA256,07d9deaace25d90fc91b31849dfc12b2fc3ac5ca90e317cfa165fe1d3553eead,Other associated activity: Cloud storage APK (FallSpy)
+SHA256,7db11cf6a0417d5e20cd6720687ba86045b2fb758a7b585a49f572df2dc40c5e,Other associated activity: AB3 APK (FallSpy)
+SHA256,a695a70c2efd11e1daa93997c1aaf976a205476839f553f2c8e64fb73123b853,Other associated activity: JS sample (LOOKVALJS)
+SHA256,920e8a8e06a1559ba0b4a1be5f6c290ed8e305fd130675ceadc655c79c1cb369,PhantomRelayV1 persistence script (watchdog) - obfuscated with DAYLIGHT
+File name,SysCheckupService.ps1,PhantomRelayV1 persistence script (watchdog) file name
+File name,SystemHealthSvc.ps1,PhantomRelayV1 persistence script (watchdog) file name
+SHA256,db05db462a0e8ba40c656dd0b8bd11f6fdc85895b54904df1dc83bb0609e2ff2,PhantomRelayV1 RAT client script - obfuscated with DAYLIGHT
+File name,Configuration.ps1,PhantomRelayV1 RAT client script file name
+File name,Configurate.ps1,PhantomRelayV1 RAT client script file name
+Scheduled task name,System Health Service,PhantomRelayV1 scheduled task name
+Scheduled task name,Microsoft System Health Service,PhantomRelayV1 scheduled task name
+File name,WUDFHost.ps1,USB propagation script file name
+File path,%ProgramData%\WindowSystem,PhantomRelayV1 staging directory
+File path,%ProgramData%\Microsoft Windows,PhantomRelayV1 staging directory
+Scheduled task name,Razer Synapse Service Helper,PhantomRelayV2 scheduled task name
+Staging directory,%LOCALAPPDATA%\Razer Update,PhantomRelayV2 staging directory
+File name,razer_update.log,PhantomRelayV2 log file
+SHA256,ee144c883784c635ef84e0ae6a12b03553c1fd65646621f22d08511bd3e6d42a,PhantomRelayV2 persistence script (watchdog) - obfuscated with DAYLIGHT
+File name,RzUpdateManager.ps1,PhantomRelayV2 persistence script (watchdog) file name
+SHA256,03beb07ce116a2a69f360dd3fab8c3aa55bb42ce580d43f1924642874e388efe,PhantomRelayV2 RAT client script - obfuscated with DAYLIGHT
+File name,RzTelemetry.ps1,PhantomRelayV2 RAT client script file name
+SHA256,c716dabe228f89e58835d2c93dbaa5719dc77f62c9e84f3e3d54ef82ded621e1,PhantomRelayV2 RAT client script (unobfuscated)
+SHA256,286de17c2e8017241bee12b0935ed5e1e5d5216f4311be781ca1a69ad81188b3,PhantomRelayV1 watchdog script (unobfuscated)
+SHA256,d814564ab8b905c3b9b7a42e757228d9d30f8ffd4fa6b3c48f4aa7e2b1e44594,PhantomRelayV2 watchdog script (unobfuscated)
+Domain name,goodhillsenterprise.com,PhantomRelayLite and PhantomRelayV1 C2
+Domain name,ny-car-dealership.it.com,PhantomRelayV1 C2
+Domain name,doct0rsim.com,PhantomRelayV1 C2
+Domain name,routinesyscheckup.com,PhantomRelayV1 C2
+Domain name,serotoninenterprise.com,PhantomRelayV1 C2
+Domain name,newstarcommunity.com,PhantomRelayV1 C2
+Domain name,jackscommunications.com,PhantomRelayV1 C2
+Domain name,fasterscommunications.com,PhantomRelayV1 C2
+Domain name,bsnowcommunications.com,PhantomRelayV1 C2
+Domain name,highfleetenterprise.com,PhantomRelayV1 C2
+Domain name,flyskyenterprise.com,PhantomRelayV1 C2
+Domain name,newsolutionsxsenterprise.icu,PhantomRelayV1 C2
+Domain name,nycpartnersenterprise.com,PhantomRelayV2 C2
+Domain name,chiselworksenterprise.com,PhantomRelayV2 C2
+Domain name,newrentalsenterprise.com,PhantomRelayV2 C2
+Domain name,bluelagoonaenterprise.com,PhantomRelayV2 C2
+Domain name,heltaskeltahenterprise.com,PhantomRelayV2 C2
+Domain name,neuromancersolutionsenterprise.icu,PhantomRelayV1 C2
+Domain name,newequipmentsolutions.com,PhantomRelayV2 C2
+SHA256,b0c07b265c9d9046038ffa48d5b8e17b8ba0791503beba85196cdbe0ac2fcb27,PhantomRelayLite RAT client script (unobfuscated)
+File path,C:\ProgramData\AMD\amd.ps1,LegionRelay RAT client file path
+File path,C:\ProgramData\BackUp\backup.ps1,LegionRelay RAT client file path
+File path,C:\ProgramData\Adobe\dfDgrr3.ps1,LegionRelay RAT client file path
+Scheduled task name,Adobe working,LegionRelay RAT scheduled task name
+Scheduled task name,BackUp checker,LegionRelay RAT scheduled task name
+Scheduled task name,AMD Checker,LegionRelay RAT scheduled task name
+SHA256,63047083db26ec6a8aa2d0d008ca4c067855a952a89f9e3e878b2215e26841cf,LegionRelay RAT client (obfuscated with DAYLIGHT)
+SHA256,ee87fae14e3cc64d894f0a677af8832f8669f11853374c18b7110df1fc52f4e5,LegionRelay RAT client (unobfuscated)
+IP address + port,194.87.128.243:8000,LegionRelay C2
+IP address + port,194.87.108.110:8000,LegionRelay C2
+IP address + port,89.125.189.118:8000,LegionRelay C2
+IP address + port,89.125.189.85:8000,LegionRelay C2
+IP address + port,91.149.221.124:8000,LegionRelay C2
+URL,t.me/s/sdgsersergser,LegionRelay Telegram C2 dead-drop resolver
+SHA256,1d69523a20b9c1180bba6a2cc9959d555e2ee9e78440fd79cfbaf31ad35a09fc,Development: .NET loader (embedded LOOKVALPS script)
+SHA256,eb2c32b3d1aed95266b0b75704d4570b37b2d77e6c5d8401122ef4daf762f186,Development: .NET loader (embedded LOOKVALPS script)
+SHA256,0005c16f04ce7d5a1a9966069f4a291de5506e77490926d7fb177efa677fe588,Development: .NET loader
+SHA256,ccc7f039e1afd55fe8bc767ae688e71e66f162aba0c0d1650face02f15e9c7d0,Development: NSIS setup with cat photo
+SHA256,908619929db75b0d2592ba6fb0a65be6c894592907c83f664f3b130108d98d6a,Development: Python-based loader script
+SHA256,e67a883595e95d357f92c2ab6cd34d4708e5ee711861c59192d9c23d7d20d0c7,Development: LOOKVALPS script
+SHA256,1e20e95b351a5bd26a3dcf1ead8cab133e3e473d2912b6e2ff285a09e855b60f,Development: LOOKVALPS script
+SHA256,2a18935e758d6a0f5bc5ebb8e43da0d1fb0cb57f7be5ab7eb050e82a51bdc5b5,Development: LOOKVALPS script
+SHA256,bc43504669966b0add6e4ec12022626126b80b8ee8d57ae95a953ee74d8df702,Development: LOOKVALPS script
+SHA256,35f3f1ead293ecc14ab03c96b0505c444b6cd0e7a48b4d099b53c8fe91cafc5e,Development: LOOKVALPS script
+SHA256,51b92c81a44f5d242519032c56601d3ee3f5699112d8fbf40323b825dfa9feda,Development: LOOKVALJS script
+SHA256,e8ff33344b9aef15df02e03f4a5d8459b520d18011e39c179e19c629171122a5,Development: LOOKVALPS script (Impacket)
+SHA256,26d1a616b9332c34f1884ed000751833a9d9d17fb737e637636bf4acb4339a22,Development: RAR SFX -> Xworm
+SHA256,dec9c0213e1259c5aa5f86f6fef2c73e87c6a2c01773e2e99b8e1a0dd2eb149f,Development: Example of ISO test sample
+SHA256,d63cdac3e3623ae3072393f33a658537af71ded3109aacb3006f45cc7c94de05,Development: Example of ISO test sample
+SHA256,9e443d773df5adf0ab9e622bb8179ce899f46b2166f2faa09d54a4622a9ac5cc,Development: Example of ISO test sample
+SHA256,296932373f9c54fcf4eb285f81a17b1b93c5a96e5ff6dfa097b4d8c4b8f53b81,Development: Example of ISO test sample
+SHA256,89e052bd182df8de5960784c663f962d44e058c8920a437f54ab75d03a7da3bd,Development: Example of historical ISO sample related to ISO test samples
+SHA256,9b7008c43814c7bf18375774bd2ed5f3bda9316dbef20b7e086fe921838f1186,Development: Example of historical ISO sample related to ISO test samples
+Domain name,j4jobspk.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,aerobionix.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,prosearium.net,PhantomRelayLite C2 (Teams vishing)
+Domain name,saidozdemir.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,tucsonanimalallergy.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,halungroup.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,khanvas.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,maxolutions243.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,thirdmetrics.com,PhantomRelayLite C2 (Teams vishing)
+Domain name,resutato.com,Teams vishing: NetSupport staging domain
+Domain name,red-viper.com,Teams vishing: NetSupport staging domain
+Domain name,emballeplus.com,Teams vishing: NetSupport staging domain
+Domain name,meadowsantiques.com,PhantomRelayLite C2 (KongTuke)
+Domain name,seahorsemethod.com,PhantomRelayLite C2 (KongTuke)
+Domain name,intrawld.com,PhantomRelayLite C2
+Domain name,emovietheater.com,PhantomRelayLite C2
+Domain name,robotic-toys.com,PhantomRelayLite C2
+Domain name,kentfiresafe.com,PhantomRelayLite C2
+Domain name,artsselection.com,PhantomRelayLite C2 (KongTuke)
+Domain name,zeftasarim.com,PhantomRelayLite C2 (KongTuke)
+Domain name,xpertlearninghub.com,PhantomRelayLite C2 (KongTuke)
