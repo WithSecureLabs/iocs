@@ -34,7 +34,7 @@ Domain,lapas.live,PhantomClick: Fake captcha domain masquerading as LAPAS (Latvi
 Domain,zoomconference.click,PhantomClick: Fake captcha domain masquerading as Zoom Conference
 Domain,zoomconference.app,PhantomClick: Fake captcha domain masquerading as Zoom Conference
 IP address,188.124.59.120,PhantomClick: Hosting lapas.live
-IP address,193.233.23.81,Hosting PhantomClick's zoomconference.app and zoomconference.click as well as PrincessClub's princess-mens.click"
+IP address,193.233.23.81,Hosting PhantomClick's zoomconference.app and zoomconference.click as well as PrincessClub's princess-mens.click
 SHA256,e8d0943042e34a37ae8d79aeb4f9a2fa07b4a37955af2b0cc0e232b79c2e72f3,PhantomClick: Lure document containing link to zoomconference.app
 SHA256,42464c188cb8116b63938b3236504ec4ae31c7cadb9063085b30dd468d88860f,PhantomClick: Similar lure document
 SHA256,7ac06aaf0cdc1c1f0f14b0e8ccc550f9df20e79f3ce321207ec7a1867d6227ef,PhantomClick: Similar lure document
