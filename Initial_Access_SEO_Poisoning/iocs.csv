@@ -1,0 +1,202 @@
+Type,Value,Description
+SHA256,a943f84de0b7ad30f4141cb55c02495e8933e4910a1e59c66524bbf172a8417f,MSI payload spoofing Ivanti Secure Access (Pulse Secure)
+SHA256,c31af2c52dde677c33f8bd9e2a35c21ffd585e7c7b8e9981aa8c5afc89fed006,MSI payload spoofing Ivanti Secure Access (Pulse Secure)
+SHA256,f1e98c72674f22299fc56f530df41b0a61b10dca8988520ea6ae14a121158539,MSI payload spoofing Ivanti Secure Access (Pulse Secure)
+SHA256,d883c067f060e0f9643667d83ff7bc55a218151df600b18991b50a4ead513364,MSI payload spoofing SonicWall NetExtender
+SHA256,e357dd02c9d4b5769b40dc0bfa35ca561fc132b65720eb109d5b8817c285fb16,MSI payload spoofing Cisco AnyConnect
+SHA256,75da1dd721531f8372c2c3fb5ae85214e84d784fbc288d7202389987d879ac21,PE payload spoofing as WatchGuard VPN client
+SHA256,26db3fd959f12a61d19d102c1a0fb5ee7ae3661fa2b301135cdb686298989179,PE payload spoofing as FortiClient
+SHA256,0676e266adb8fdce2d6528a869a6a45ba86e6186934a5a6f44a1a00c49da879b,PE payload spoofing as WatchGuard VPN client
+SHA256,85c4837e3337165d24c6690ca63a3274dfaaa03b2ddaca7f1d18b3b169c6aac1,PE payload spoofing as Sophos Connect
+SHA256,40d77718fbb05123f17e5aea3e65f937eda0f9f8866d866158d4ec3d69ab867e,MSI spoofing Ivanti Secure Access (Pulse Secure)
+SHA256,57a50a1c04254df3db638e75a64d5dd3b0d6a460829192277e252dc0c157a62f,ZIP -> MSI payload spoofing Ivanti Secure Access (Pulse Secure)
+SHA256,5f09646ef8f5e41cf04bb6af17831651469af89f1494f241fa2a0de875aec781,ZIP -> HTA payload spoofing Palo Alto GlobalProtect
+SHA256,85e4995ec639e27183be9ddf486a264d71b5e2e59977d3c39aacd193354edb98,ZIP -> HTA payload spoofing Fortinet's FortiClient
+SHA256,fdb4530a63d83443ecf89371597b7d84b13d8b0d1f9b8d8af59122b3325a6200,ZIP -> HTA payload spoofing Sophos Connect
+SHA256,5b2e22d4fdabb80855a3717d6f887146675dc60a1b34487995cc08314faa25b2,ZIP -> HTA payload spoofing Checkpoint VPN
+SHA256,d048fbce88fb058645a24823e8829f703dfcdf3627304f137a65d5767e7cbcbd,ZIP -> HTA payload spoofing WatchGuard (Firebox) VPN
+SHA256,783a4034e44f58427a248454ade7ab09c4099414bb0a385ca32d8b263cd21ae4,MSI payload spoofing RVTools - Bumblebee (old)
+SHA256,5a847ecc862ee74dd532fefe3a1e01c9f637631692fe74024b7ba15176cd9d13,MSI payload spoofing Wisenet Device Manager - Bumblebee (old) 
+SHA256,23ea71d3ac903983579f9bdf09026b7f450b74207634b6e1eed406db587e4508,MSI payload spoofing Pingplotter - Bumblebee
+SHA256,640c518ff312e024c1e3bb198a2240c59b2205ab562053a1e644276592a5c07d,MSI payload spoofing Azure CLI - Bumblebee
+SHA256,7c4717ca179dd1288f15f32468234f3ac523e5a8e802ab215ca3611be69f1f2e,MSI payload spoofing NxWitness - Bumblebee
+SHA256,07b3b900c94504a32ca79495075ae8f133ad1ee5ceedc471fdb8e3252bddafc2,popup.js - Used for BIG-IP Edge client phishing page
+SHA256,8bb4e216a7fb5e003c3b37a4089517c04a041e5eee6576ead79e088f41d3e110,popup.js - Used for SonicWall phishing page
+Domain name,latestversion.de,Attacker-controlled infrastructure used to fetch payload
+Domain name,vpn-client.download,Attacker-controlled infrastructure used to fetch payload
+Domain name,cloud-storage26.de,Attacker-controlled infrastructure used to fetch payload
+Username,mremoteng-download,GitHub account hosting repository with malicious payload
+Username,download-zenmap,GitHub account hosting repository with malicious payload
+Domain name,openconnect-download.com,Suspected attacker-controlled domain
+Domain name,sonicwall-download.online,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,software-server.online,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,hub28.shop,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,soft-server.online,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,download-server.online,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,lionmobiles.com,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,shopping5.shop,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,netml.shop,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,goldenman.win,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,download-center.online,Attacker-controlled infrastructure used to fetch payload (old)
+Domain name,myfiles2.download,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,house-connection.pro,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,5913261.cc,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,system25.stream,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,zabbix-agents.org,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,site130.online,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,dukegroup.org,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,nx-witness.org,Attacker-controlled domain used for credential exfiltration (old)
+Domain name,pjmo35fcdd.35.sub-site.eu,Attacker-controlled domain used to fetch VPN main view
+Domain name,akm26.shop,Attacker-controlled domain used to fetch VPN main view
+Domain name,panel45.online,Attacker-controlled domain used to fetch VPN main view
+Domain name,panel26.shop,Attacker-controlled domain used to fetch VPN main view
+Domain name,amllp.de,Attacker-controlled domain used to fetch VPN main view
+Domain name,panel50.online,Attacker-controlled domain used to fetch VPN main view
+Domain name,wwid37abab.37.sub-site.eu,Attacker-controlled domain used to fetch VPN main view
+Domain name,openvpn-connect.org,Attacker-controlled domain used to fetch VPN main view
+SHA256,78ea78322759d2c8ea522ca0b1ddbb30b7f3564563d88d015cbac87a7ecb2531,Page content for VPN fetch page (hunting) - error | 404
+SHA256,6dfed4d5d8b8c8102567b7e2db6c55dc0b8b432de74f8a5cf466737750f9ae2c,Page content for old C2 exfil (hunting)
+Domain name,amr26.online,Attacker-controlled domain used for credential exfiltration
+Domain name,myconnection.pro,Attacker-controlled domain used for credential exfiltration
+Domain name,vpn-connection.pro,Attacker-controlled domain used for credential exfiltration
+Domain name,hetlergof.de,Attacker-controlled domain used for credential exfiltration
+Domain name,friendlystore26.online,Attacker-controlled domain used for credential exfiltration
+Domain name,panel60.online,Attacker-controlled domain used for credential exfiltration
+Domain name,yougift.online,Attacker-controlled domain used for credential exfiltration
+Domain name,blagmatt.top,Attacker-controlled domain used for credential exfiltration
+Domain name,house-connectio.pro,Attacker-controlled domain used for credential exfiltration
+Domain name,system25.stream,Attacker-controlled domain used for credential exfiltration
+Domain name,postgresql-download.com,Attacker-controlled domain used for credential exfiltration
+Domain name,xxuf34bdfd.34.sub-site.eu,Attacker-controlled domain used for credential exfiltration
+Domain name,firebox-ssl.com,Phishing domain for WatchGuard
+Domain name,watchguard-vpn.pt,Phishing domain for WatchGuard
+Domain name,watchguard-vpn.it,Phishing domain for WatchGuard
+Domain name,watchguard-vpn.nl,Phishing domain for WatchGuard
+Domain name,watchguard-vpn.es,Phishing domain for WatchGuard
+Domain name,watchguard-mobile.com,Phishing domain for WatchGuard
+Domain name,watchguard-mobile.fr,Phishing domain for WatchGuard
+Domain name,watchguard-vpn.co.uk,Phishing domain for WatchGuard
+Domain name,vpn-watchguard.org,Phishing domain for WatchGuard
+Domain name,watchguard-vpn.de,Suspected phishing domain for WatchGuard
+Domain name,watchguard-vpn.net,Suspected phishing domain for WatchGuard
+Domain name,watchguard-vpn.org,Suspected phishing domain for WatchGuard
+Domain name,vpn-watchguard.com,Suspected phishing domain for WatchGuard
+Domain name,watchguard-vpn.com,Suspected phishing domain for WatchGuard
+Domain name,watchguard-vpn.fr,Phishing domain for WatchGuard
+Domain name,watchguard-mobile.org,Suspected phishing domain for WatchGuard
+Domain name,checkpoint-vpn.es,Phishing domain for Checkpoint
+Domain name,checkpoint-vpn.com,Suspected phishing domain for Checkpoint
+Domain name,checkpoint-vpn.de,Suspected phishing domain for Checkpoint
+Domain name,checkpoint-vpn.org,Suspected phishing domain for Checkpoint
+Domain name,sophos-connect.net,Phishing domain for Sophos Connect
+Domain name,connect-client.com,Phishing domain for Sophos Connect
+Domain name,sophos-vpn.com,Phishing domain for Sophos Connect
+Domain name,sophos-vpn.net,Suspected phishing domain for Sophos Connect
+Domain name,sophos-connect.org,Suspected phishing domain for Sophos Connect
+Domain name,sophos-connect.it,Suspected phishing domain for Sophos Connect
+Domain name,sophos-connect.com.tr,Suspected phishing domain for Sophos Connect
+Domain name,sophos-connect.nl,Suspected phishing domain for Sophos Connect
+Domain name,qfinder-pro.com,Suspected phishing domain for Qfinder Pro
+Domain name,anyconnect-vpn-client.github.io,Suspected phishing domain for Cisco AnyConnect
+Domain name,cisco-anyconnect.de,Suspected phishing domain for Cisco AnyConnect
+Domain name,cisco-anyconnect.fr,Suspected phishing domain for Cisco AnyConnect
+Domain name,anyconnect-client.com,Suspected phishing domain for Cisco AnyConnect
+Domain name,cisco-secure-client.de,Suspected phishing domain for Cisco Secure Client
+Domain name,secure-client.org,Suspected phishing domain for Cisco Secure Client
+Domain name,secure-client-download.org,Suspected phishing domain for Cisco Secure Client
+Domain name,secure-client.github.io,Suspected phishing domain for Cisco Secure Client
+Domain name,nordlayer-vpn.com,Phishing domain for NordLayer VPN
+Domain name,getscreen-login.com,Phishing domain for Getscreen.me
+Domain name,rd-web-access.com,Phishing domain for RDWeb
+Domain name,rds-login.org,Suspected phishing domain for RDP/RDWeb
+Domain name,rdp-login.com,Suspected phishing domain for RDP/RDWeb
+Domain name,rds-login.com,Suspected phishing domain for RDP/RDWeb
+Domain name,remote-web-client.com,Suspected phishing domain for RDP/RDWeb
+Domain name,big-ip-client.net,Phishing domain for BIG IP client
+Domain name,big-ip-client.org,Suspected phishing domain for BIG IP client
+Domain name,big-ip-client.github.io,Suspected phishing domain for BIG IP client
+Domain name,big-ip-client.com,Suspected phishing domain for BIG IP client
+Domain name,veeam-backup.org,Phishing domain for Veeam Backup & Replication
+Domain name,veeam-backup.es,Suspected phishing domain for Veeam Backup & Replication
+Domain name,veeam-backup.nl,Suspected phishing domain for Veeam Backup & Replication
+Domain name,nx-witness.org,Suspected phishing domain for NxWitness
+Domain name,nx-witness.net,Suspected phishing domain for NxWitness
+Domain name,nxwitness.net,Suspected phishing domain for NxWitness
+Domain name,ping-plotter.org,Suspected phishing domain for Pingplotter
+Domain name,ivanti-secure-access.es,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-secure-access.de,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-mac.com,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-secure-access.fr,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-secure-vpn.com,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-secure-access.net,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-secure-access.com,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-pulsesecure.com,Suspected phishing domain for Ivanti Secure Access
+Domain name,ivanti-secure-access.de,Phishing domain for Ivanti Secure Access
+Domain name,pulsesecure.pro,Phishing domain for Ivanti Secure Access (old)
+Domain name,netextender-vpn.de,Phishing domain for SonicWall NetExtender
+Domain name,netextender.pl,Phishing domain for SonicWall NetExtender
+Domain name,netextender.fr,Phishing domain for SonicWall NetExtender
+Domain name,sonicwall-netextender.fr,Phishing domain for SonicWall NetExtender
+Domain name,netextender.co.uk,Phishing domain for SonicWall NetExtender
+Domain name,netextender.cz,Phishing domain for SonicWall NetExtender
+Domain name,sonicwall-netextender.nl,Suspected phishing domain for SonicWall NetExtender
+Domain name,sonicwall-netextender.de,Suspected phishing domain for SonicWall NetExtender
+Domain name,sonicwall-netextender.es,Suspected phishing domain for SonicWall NetExtender
+Domain name,netextender-login.com,Suspected phishing domain for SonicWall NetExtender
+Domain name,netextender-client.com,Suspected phishing domain for SonicWall NetExtender
+Domain name,netextender.at,Phishing domain for SonicWall NetExtender
+Domain name,netextender.ro,Suspected phishing domain for SonicWall NetExtender
+Domain name,netextender.es,Suspected phishing domain for SonicWall NetExtender
+Domain name,netextender-download.de,Suspected phishing domain for SonicWall NetExtender
+Domain name,sonicwall-netextender.net,Suspected phishing domain for SonicWall NetExtender
+Domain name,netextender-sonicwall.com,Suspected phishing domain for SonicWall NetExtender
+Domain name,netextender-sonicwall.org,Suspected phishing domain for SonicWall NetExtender
+Domain name,sonicwall-netextender.org,Suspected phishing domain for SonicWall NetExtender
+Domain name,sonicwall-netextender.com,Phishing domain for SonicWall NetExtender (old)
+Domain name,sonicwall.pro,Phishing domain for SonicWall NetExtender (old)
+Domain name,esxi-download.github.io,Suspected phishing domain for VMWareESXi
+Domain name,fortivpn.es,Phishing domain for Fortinet - FortiClient
+Domain name,fortigate-vpn.com,Phishing domain for Fortinet - FortiClient
+Domain name,foticlient.de,Phishing domain for Fortinet - FortiClient
+Domain name,forti-vpn.pl,Phishing domain for Fortinet - FortiClient
+Domain name,vpn-forti.fr,Phishing domain for Fortinet - FortiClient
+Domain name,fortivpn.it,Phishing domain for Fortinet - FortiClient
+Domain name,fortivpn.cz,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-vpn.org,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forti-vpn.com,Suspected phishing domain for Fortinet - FortiClient
+Domain name,fortigate-vpn.github.io,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient.ca,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-korea.com,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-japan.github.io,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient.co.uk,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-vpn.it,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-download.es,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient.no,Suspected phishing domain for Fortinet - FortiClient
+Domain name,fortinet-vpn.net,Suspected phishing domain for Fortinet - FortiClient
+Domain name,download-forticlient.github.io,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-download.github.io,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-vpn.es,Suspected phishing domain for Fortinet - FortiClient
+Domain name,vpn-fortinet.com,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-for-mac.com,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-vpn.fr,Suspected phishing domain for Fortinet - FortiClient
+Domain name,vpn-fortinet.github.io,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-download.fr,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forti-vpn.nl,Suspected phishing domain for Fortinet - FortiClient
+Domain name,fortivpn.com.tr,Suspected phishing domain for Fortinet - FortiClient
+Domain name,fortinet-vpn.com,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-vpn.de,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient.es,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient.gr,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-download.de,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient.se,Suspected phishing domain for Fortinet - FortiClient
+Domain name,foticlient.es,Suspected phishing domain for Fortinet - FortiClient
+Domain name,forticlient-vpn.nl,Suspected phishing domain for Fortinet - FortiClient
+Domain name,vpn-forticlient.nl,Suspected phishing domain for Fortinet - FortiClient
+Domain name,openvpn-connect.com, Suspected phishing domain for OpenVPN
+Domain name,globalprotect-telecharger.github.io,Suspected phishing domain for Palo Alto GlobalProtect
+Domain name,globalprotect-descarga.github.io,Suspected phishing domain for Palo Alto GlobalProtect
+Domain name,globalprotect.es,Suspected phishing domain for Palo Alto GlobalProtect
+Domain name,globalprotect-vpn.github.io,Suspected phishing domain for Palo Alto GlobalProtect
+Domain name,citrix-gateway.net,Suspected phishing domain for Citrix NetScaler Gateway
+Domain name,citrix-secure-access.org,Suspected phishing domain for Citrix Secure Access
+Domain name,citrix-secure-access.com,Suspected phishing domain for Citrix Secure Access
